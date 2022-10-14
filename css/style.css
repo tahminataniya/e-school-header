@@ -1,0 +1,48 @@
+/*common start*/
+body{
+	font-family: 'poppins',sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+/*common start*/
+header{
+	background-color:#F0FFF0;
+	padding: 13px 0;
+
+}
+.c_nav{
+
+}
+.logo{
+	width: 195px;
+
+}
+.menu ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000 !important;
+    padding: 0 25px !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_common{
+	font-family:'Roboto',sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #ffffff !important;
+	background-color:#21B573 !important;
+	align-items: center;
+	border-radius: 33px;
+	line-height: 19px;
+}
+.btn_header{
+    width: 105px;
+    height: 45px;
+    padding: 12px 25px;
+}
+.btn_common:hover{
+	background-color:#FD511A !important;
+}
+
